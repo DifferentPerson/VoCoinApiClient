@@ -1,7 +1,7 @@
 {
   "name": "vocoin-api-client",
   "version": "0.0.1",
-  "description": "",
+  "description": "A NodeJS Library for interacting with the VoCoin API",
   "main": "src/index.js",
   "scripts": {
     "test": "node test/index.js"
@@ -9,5 +9,21 @@
   "author": "ADifferentPerson",
   "dependencies": {
     "got": "^11.8.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DifferentPerson/VoCoinApiClient.git"
+  },
+  "keywords": [
+    "vocoin"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DifferentPerson/VoCoinApiClient/issues"
+  },
+  "homepage": "https://github.com/DifferentPerson/VoCoinApiClient#readme"
 }
