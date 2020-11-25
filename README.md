@@ -1,4 +1,4 @@
-# VoCoinAPIClient
+# VoCoinApiClient
 A NodeJS Library for interacting with the VoCoin API 
 
 # Usage
