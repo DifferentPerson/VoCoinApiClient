@@ -15,7 +15,7 @@ class Util {
             prefixUrl: baseUrl,
             responseType: "json",
             headers: {
-                "user-agent": "VoCoinAPIClient"
+                "user-agent": "VoCoinApiClient"
             }
         })).body;
     }
