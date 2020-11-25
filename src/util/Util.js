@@ -2,7 +2,7 @@
 
 const got = require("got");
 
-const baseUrl = "http://joinvo.co/api/vcn/";
+const baseUrl = "https://joinvo.co/api/vcn/";
 
 class Util {
 
