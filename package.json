@@ -1,7 +1,7 @@
 {
   "name": "vocoin-api-client",
-  "version": "0.0.1",
-  "description": "A NodeJS Library for interacting with the VoCoin API",
+  "version": "0.0.2",
+  "description": "A NodeJS Library for interacting with the VoCoin API. Archived",
   "main": "src/index.js",
   "scripts": {
     "test": "node test/index.js"
